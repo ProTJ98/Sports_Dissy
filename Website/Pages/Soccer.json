@@ -1,0 +1,12 @@
+{
+    "firstName": "Virgil",
+    "lastName": "Van Dijk",
+    "Club": "Liverpool",
+	"Nationality" : "Netherlands",
+    "Topps": {
+        "setName": "Chrome",
+        "setYear": "2020",
+        "cardNo": "212",
+    },
+    
+}
