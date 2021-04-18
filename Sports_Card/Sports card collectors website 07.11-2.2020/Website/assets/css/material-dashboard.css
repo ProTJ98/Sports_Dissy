@@ -17897,8 +17897,8 @@ html[dir="rtl"] .form-check .form-check-sign .check:before {
   float: left;
 }
 
-.cardb [class*="card-headerb-"] .card-iconb,
-.cardb [class*="card-headerb-"] .card-textb {
+.cardb [class*="card-headerb-"] .card-icon,
+.cardb [class*="card-headerb-"] .card-text {
   border-radius: 3px;
   background-color: #FFFFFF;
   padding: 15px;
@@ -17907,6 +17907,15 @@ html[dir="rtl"] .form-check .form-check-sign .check:before {
   float: left;
 }
 
+.card [class*="card-header-"] .card-iconC,
+.card [class*="card-header-"] .card-text {
+  border-radius: 3px;
+  background-color: #13D8E5;
+  padding: 15px;
+  margin-top: -20px;
+  margin-right: 15px;
+  float: left;
+}
 
 
 .card [class*="card-header-"] .card-text {
